@@ -1,6 +1,6 @@
 Week 1 Log
 
-[02/05/2025] – [Your end date]
+[02/05/2025] – [09/05/2025]
 
 ✅ What I Completed
 
