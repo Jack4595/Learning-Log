@@ -1,4 +1,4 @@
-Week 1 Log
+Week 1 Log (10/05/2025 – 17/05/2025)
 
 ✅ Completed: 
 Interactive playing card page using HTML and CSS
