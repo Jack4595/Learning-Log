@@ -6,18 +6,25 @@ This repository tracks my journey as I learn web development through FreeCodeCam
 
 📅 Weekly Logs
 
-Week 1 (02/05/2025 – 09/05/2025)
+Week 1 (10/05/2025 – 17/05/2025)
 
-- ✅ Completed: *e.g., HTML Basics on FreeCodeCamp*
+- ✅ Completed: Interactive playing card page using HTML and CSS 
 - 🛠 Learned:
-  - *List of things you learned this week*
+  - How to make cards using css
+  - How to use the transform when hovered
+  - Basics of typography 
 - 🤔 Need to revisit:
-  - *List of things you want to review or didn’t fully understand yet*
+  - Flexbox
+  - Flex Model
+  - Justify contents
 - ⭐ Highlight:
-  - *One thing you’re proud of from the week*
+  - Proud of using the transform property to flip the cards around I thought it was really cool how they start face down then flip when hovered.
 
 ---
 
-Week 2 (Next Week’s Dates)
+Week 2 (17/05/2025 – 24/05/2025)
 
-(You’ll fill this in next week!)
+- ✅ Completed:
+- 🛠 Learned:
+- 🤔 Need to revisit:
+- ⭐ Highlight:
